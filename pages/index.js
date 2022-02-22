@@ -1,6 +1,4 @@
 import Head from 'next/head';
-import Footer from "../comps/Footer";
-import Navbar from "../comps/navbar";
 import Link from 'next/link';
 import styles from  '../styles/Home.module.css';
 
